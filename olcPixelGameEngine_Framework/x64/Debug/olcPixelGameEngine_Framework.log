@@ -1,0 +1,4 @@
+﻿  AStar.cpp
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Pathfinding Algorithms Visualised\olcPixelGameEngine_Framework\AStar.cpp(105,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Pathfinding Algorithms Visualised\olcPixelGameEngine_Framework\AStar.cpp(156,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  olcPixelGameEngine_Framework.vcxproj -> C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Pathfinding Algorithms Visualised\x64\Debug\olcPixelGameEngine_Framework.exe
